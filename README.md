@@ -1,6 +1,3 @@
-I'll create a comprehensive README.md file that captures the key information from the infrastructure documentation.
-
-
 
 # Book Viewer AWS Infrastructure
 
